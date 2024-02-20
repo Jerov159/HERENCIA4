@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b362133f-acda-4982-9838-875caa95f8ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Herencias.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Asiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Boleto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Tren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Tvagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Vagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Viaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4/PerishableProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise4/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Maintodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise5/Seat.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cYB4DleQZVe4UxQwnxfaqZNZTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maintodo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Usuario/IdeaProjects/Herencias/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejerc3.Main" />
+      <module name="Herencias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejerc3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise4.Main4" />
+      <module name="Herencias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maintodo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5.Maintodo" />
+      <module name="Herencias" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Maintodo" />
+        <item itemvalue="Application.Main4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b362133f-acda-4982-9838-875caa95f8ea" name="Changes" comment="" />
+      <created>1708278442133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708278442133</updated>
+    </task>
+    <servers />
+  </component>
+</project>
