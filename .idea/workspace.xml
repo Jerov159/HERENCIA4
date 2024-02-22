@@ -4,33 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b362133f-acda-4982-9838-875caa95f8ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Herencias.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Asiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Boleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Tren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Tvagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Vagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejerc3/Viaje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/PerishableProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise4/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Maintodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Reservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise5/Seat.java" afterDir="false" />
+    <list default="true" id="b362133f-acda-4982-9838-875caa95f8ea" name="Changes" comment=".">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejerc3/Boleto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejerc3/Boleto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejerc3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejerc3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejerc3/Tren.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejerc3/Tren.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejerc3/Tvagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejerc3/Compra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejerc3/Vagon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejerc3/Vagon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5/Maintodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5/Maintodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -135,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708278442133</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <option name="closed" value="true" />
+      <created>1708450925599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708450925599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>

@@ -9,7 +9,8 @@ public class Maintodo {
     private List<Flight> flights;
     private List<Airplane> airplanes;
     private List<Seat> seats;
-private Scanner scanner;
+    private Scanner scanner;
+
     public Maintodo() {
         this.persons = new ArrayList<>();
         this.passengers = new ArrayList<>();
@@ -26,12 +27,14 @@ private Scanner scanner;
                 null, options, options[3]);
         return option;
     }
+
     public int mostrarOpcionesAgregar() {
         String[] options = {"Persona", "Pasajero", "Vuelo", "Avión", "Asiento"};
         return JOptionPane.showOptionDialog(null, "Seleccione el objeto a agregar:", "Agregar",
                 JOptionPane.DEFAULT_OPTION, JOptionPane.QUESTION_MESSAGE,
                 null, options, options[0]);
     }
+
     public int mostrarOpcionesModificar() {
         String[] options = {"Persona", "Pasajero", "Vuelo", "Avión", "Asiento"};
         return JOptionPane.showOptionDialog(null, "Seleccione el objeto a modificar:", "Modificar",
@@ -46,7 +49,7 @@ private Scanner scanner;
                 null, options, options[0]);
     }
 
-    public int obtenerIndice(List<?> lista, String mensaje) {
+    public int getIndice(List<?> lista, String mensaje) {
         int indice = scanner.nextInt();
         if (indice >= 0 && indice < lista.size()) {
             return indice;
@@ -80,28 +83,29 @@ private Scanner scanner;
         Maintodo todo = new Maintodo();
         int opcion = todo.mostrarOpciones();
         do {
-            switch (opcion) {
-                case 1:
-                    opcion = todo.mostrarOpcionesAgregar();
-                    switch (opcion) {
-                        case 0:
-                            todo.persons.add(todo.getPerson());
-                            break;
-                        case 1:
-                            todo.passengers.add(todo.getPassenger());
-                            break;
-                        case 2:
-                            todo.flights.add(todo.getFlight());
-                            break;
-                        case 3:
-                            todo.airplanes.add(todo.getAirplane());
-                            break;
-                        case 4:
-                            todo.seats.add(todo.getSeat());
-                            break;
-                    }
-                    break;
+            {
+                opcion = todo.mostrarOpcionesAgregar();
+                switch (opcion) {
+                    case 0:
+                        todo.persons.add(todo.getPerson());
+                        break;
+                    case 1:
+                        todo.passengers.add(todo.getPassenger());
+                        break;
+                    case 2:
+                        todo.flights.add(todo.getFlight());
+                        break;
+                    case 3:
+                        todo.airplanes.add(todo.getAirplane());
+                        break;
+                    case 4:
+                        todo.seats.add(todo.getSeat());
+                        break;
+                }
+                break;
+
             }
-        } while (opcion != 4);
+            }
+            while (opcion != 4) ;
+        }
     }
-}

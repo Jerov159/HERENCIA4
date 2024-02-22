@@ -25,12 +25,12 @@ public class Boleto {
             return this.asiento;
         }
 
-        @Override
-        public String toString() {
-            StringJoiner joiner = new StringJoiner("\n");
-            joiner.add(String.format("%-30s: %s", "cliente", cliente));
-            joiner.add(String.format("%-30s: %s", "viaje", viaje));
-            joiner.add(String.format("%-30s: %s", "asiento:", asiento));
-            return joiner.toString();
-        }
+    @Override
+    public String toString() {
+        return "Boleto{" +
+                "cliente=" + cliente +
+                ", viaje=" + viaje +
+                ", asiento=" + asiento +
+                '}';
     }
+}
